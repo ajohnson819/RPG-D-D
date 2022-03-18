@@ -13,7 +13,11 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 using Engine.ViewModels;
-
+//order of operations dictate the build: display menu, user input, switch...
+/* fixing order
+ 1.) Partial Class
+ 2.) duplicative codes
+ */
 namespace WPFUI
 {
     /// <summary>

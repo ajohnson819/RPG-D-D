@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Engine",
+    "\\Engine\\ViewModels",
+    "\\RPG"
   ],
-  "SelectedNode": "\\C:\\Users\\Adam and Katrina\\Desktop\\adamStuff\\codeLouisville\\DndRpg",
+  "SelectedNode": "\\RPG\\RPG.sln",
   "PreviewInSolutionExplorer": false
 }

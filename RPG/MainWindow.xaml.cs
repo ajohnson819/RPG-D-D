@@ -13,11 +13,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 using Engine.ViewModels;
-//order of operations dictate the build: display menu, user input, switch...
-/* fixing order
- 1.) Partial Class
- 2.) duplicative codes
- */
+
 namespace WPFUI
 {
     /// <summary>
@@ -25,7 +21,7 @@ namespace WPFUI
     /// </summary>
     public partial class MainWindow : Window
     {
-        private aGameSession _gameSession;
+        private GameSession _gameSession;
 
         public MainWindow()
         {
@@ -42,3 +38,8 @@ namespace WPFUI
         }
     }
 }
+//order of operations dictate the build: display menu, user input, switch...
+/* fixing order
+ 1.) Partial Class
+ 2.) duplicative codes
+ */

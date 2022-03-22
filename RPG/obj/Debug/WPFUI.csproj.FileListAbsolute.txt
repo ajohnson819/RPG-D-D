@@ -1,6 +1,0 @@
-C:\Users\Adam and Katrina\Desktop\adamStuff\codeLouisville\DndRpg\RPG\obj\Debug\WPFUI.csproj.AssemblyReference.cache
-C:\Users\Adam and Katrina\Desktop\adamStuff\codeLouisville\DndRpg\RPG\obj\Debug\WPFUI.csproj.SuggestedBindingRedirects.cache
-C:\Users\Adam and Katrina\Desktop\adamStuff\codeLouisville\DndRpg\RPG\obj\Debug\MainWindow.g.cs
-C:\Users\Adam and Katrina\Desktop\adamStuff\codeLouisville\DndRpg\RPG\obj\Debug\App.g.cs
-C:\Users\Adam and Katrina\Desktop\adamStuff\codeLouisville\DndRpg\RPG\obj\Debug\RPG_MarkupCompile.cache
-C:\Users\Adam and Katrina\Desktop\adamStuff\codeLouisville\DndRpg\RPG\obj\Debug\RPG_MarkupCompile.lref

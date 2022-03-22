@@ -31,7 +31,22 @@ namespace WPFUI
 
             DataContext = _gameSession;
         }
+        /*
+        private void ButtonBase_OnClick(object sender, RoutedEventArgs e)
+        {
+            _gameSession.CurrentPlayer.HitPoints = _gameSession.CurrentPlayer.HitPoints + 100;
+        }
 
+        private void ButtonBase_OnClick(object sender, RoutedEventArgs e)
+        {
+            _gameSession.CurrentPlayer.Gold = _gameSession.CurrentPlayer.Gold + 1000;
+        }
+
+        private void ButtonBase_OnClick(object sender, RoutedEventArgs e)
+        {
+            _gameSession.CurrentPlayer.Level = _gameSession.CurrentPlayer.Level + 1;
+        }
+        */
         private void ButtonBase_OnClick(object sender, RoutedEventArgs e)
         {
             _gameSession.CurrentPlayer.ExperiencePoints = _gameSession.CurrentPlayer.ExperiencePoints + 10;

@@ -2,9 +2,11 @@
   "ExpandedNodes": [
     "",
     "\\Engine",
+    "\\Engine\\bin",
+    "\\Engine\\Models",
     "\\Engine\\ViewModels",
     "\\RPG"
   ],
-  "SelectedNode": "\\RPG\\RPG.sln",
+  "SelectedNode": "\\RPG\\MainWindow.xaml",
   "PreviewInSolutionExplorer": false
 }

@@ -1,6 +1,2 @@
-C:\Users\Adam and Katrina\Desktop\adamStuff\codeLouisville\DndRpg\Engine\bin\Debug\Engine.dll
-C:\Users\Adam and Katrina\Desktop\adamStuff\codeLouisville\DndRpg\Engine\bin\Debug\Engine.pdb
 C:\Users\Adam and Katrina\Desktop\adamStuff\codeLouisville\DndRpg\Engine\obj\Debug\Engine.csproj.AssemblyReference.cache
 C:\Users\Adam and Katrina\Desktop\adamStuff\codeLouisville\DndRpg\Engine\obj\Debug\Engine.csproj.CoreCompileInputs.cache
-C:\Users\Adam and Katrina\Desktop\adamStuff\codeLouisville\DndRpg\Engine\obj\Debug\Engine.dll
-C:\Users\Adam and Katrina\Desktop\adamStuff\codeLouisville\DndRpg\Engine\obj\Debug\Engine.pdb

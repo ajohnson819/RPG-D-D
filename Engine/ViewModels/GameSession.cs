@@ -25,7 +25,7 @@ namespace Engine.ViewModels
 
             CurrentLocation = new Location();
             CurrentLocation.Name = "Home";
-            CurrentLocation. XCoordinate = 0;
+            CurrentLocation.XCoordinate = 0;
             CurrentLocation.YCoordinate = -1;
             CurrentLocation.Description = "This is your house;";
         }

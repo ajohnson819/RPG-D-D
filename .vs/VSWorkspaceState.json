@@ -7,6 +7,6 @@
     "\\Engine\\ViewModels",
     "\\RPG"
   ],
-  "SelectedNode": "\\RPG\\MainWindow.xaml",
+  "SelectedNode": "\\Engine\\ViewModels\\GameSession.cs",
   "PreviewInSolutionExplorer": false
 }
